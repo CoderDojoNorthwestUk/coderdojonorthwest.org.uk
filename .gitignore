@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/wp-content
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/coderdojonorthwestuk/
+!/wp-content/themes/coderdojonorthwestuk/*
+!/wp-content/plugins
+/wp-content/plugins/*
+!/wp-content/plugins/newslettergen/
+!/wp-content/plugins/newslettergen/*
